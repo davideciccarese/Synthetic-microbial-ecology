@@ -196,8 +196,6 @@ Growth kinetics and rod mechanics:
 
 > Rudge TJ, Steiner PJ, Phillips A, Haseloff J. Computational modeling of synthetic microbial biofilms. *ACS Synthetic Biology* 1(8):345-352 (2012). https://doi.org/10.1021/sb300031n
 
-The rod-mechanics engine conventions reuse those validated in:
-
 > Ciccarese D, Micali G, Borer B, Ruan C, Or D, Johnson DR. Rare and localized events stabilize microbial community composition and patterns of spatial self-organization in a fluctuating environment. *The ISME Journal* 16:1453-1463 (2022). https://doi.org/10.1038/s41396-022-01189-9
 
 The closest-points-between-segments routine follows Ericson C, *Real-Time Collision Detection*, Morgan Kaufmann (2005).
